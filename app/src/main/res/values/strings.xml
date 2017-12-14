@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MasterDetail</string>
+    <string name="title_firebaseitem_detail">FirebaseItem Detail</string>
+</resources>
